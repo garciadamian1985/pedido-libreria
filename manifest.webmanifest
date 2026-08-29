@@ -1,0 +1,10 @@
+{
+  "name": "Pedido Librería",
+  "short_name": "Pedido",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1f6feb",
+  "lang": "es-AR",
+  "icons": []
+}
